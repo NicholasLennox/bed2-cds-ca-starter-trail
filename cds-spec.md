@@ -147,6 +147,7 @@ Then write `.github/workflows/CI.yml` with two jobs:
 Trigger it on push to `main`.
 
 **Screenshot 3:** the Actions run, both jobs green, with `test` shown before `build-and-push`.
+
 **Screenshot 4:** the ACR repository showing both tags against the same build.
 
 ### 4.6 Stage 6 - Deploy it and automate the deployment (12 marks)
