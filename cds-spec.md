@@ -280,7 +280,7 @@ You can submit a diagram as part of this answer. If you do, label the arrows wit
 
 ## 6. Part C: the quiz (10 marks)
 
-Ten multiple-choice questions, one mark each. Present in the submission document. 
+Ten multiple-choice questions, one mark each.
 
 It is recommended to answer them last. Nothing stops you doing them first, but the practical and the long-form questions will have refreshed most of what they cover.
 
